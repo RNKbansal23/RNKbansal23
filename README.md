@@ -1,3 +1,4 @@
+<img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsC9aP5nKbEINNkvYgNO14pNVd4c_H5yKzqQ&s"/>
 <h1 align="center">Hi 👋, I'm Rajat Bansal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
