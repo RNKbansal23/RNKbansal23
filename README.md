@@ -1,9 +1,8 @@
 <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsC9aP5nKbEINNkvYgNO14pNVd4c_H5yKzqQ&s"/>
 <h1 align="center">Hi 👋, I'm Rajat Bansal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rnkbansal23&label=Profile%20views&color=0e75b6&style=flat" alt="rnkbansal23" width="200" height="50"/>
+  <img src="https://komarev.com/ghpvc/?username=rnkbansal23&label=Profile%20views&color=0e75b6&style=flat" alt="rnkbansal23" style="width: 400px; height: 100px;"/>
 </p>
 
 
