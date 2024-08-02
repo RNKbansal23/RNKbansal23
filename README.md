@@ -5,7 +5,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=rnkbansal23&label=Profile%20views&color=0e75b6&style=flat" alt="rnkbansal23" style="width: 200px; height: 100px;"/>
+  <img src="https://komarev.com/ghpvc/?username=rnkbansal23&label=Profile%20views&color=0e75b6&style=flat" alt="rnkbansal23" style="width: 100px; height: 100px;"/>
 </p>
 
 
