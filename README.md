@@ -1,5 +1,5 @@
 <p align="center">
-<img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsC9aP5nKbEINNkvYgNO14pNVd4c_H5yKzqQ&s" alt="rnkbansal23" style="width: 600px; height: 300px;"/>
+<img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsC9aP5nKbEINNkvYgNO14pNVd4c_H5yKzqQ&s" alt="rnkbansal23" style="width: 800px; height: 350px;"/>
 </p>
 <h1 align="center">Hi 👋, I'm Rajat Bansal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
