@@ -1,5 +1,5 @@
 <p align="center">
-<img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsC9aP5nKbEINNkvYgNO14pNVd4c_H5yKzqQ&s" alt="rnkbansal23" style="width: 800px; height: 350px;"/>
+<img src ="https://img.freepik.com/free-vector/3d-black-techno-abstract-background-overlap-layer_206725-671.jpg?t=st=1723382012~exp=1723385612~hmac=efcc4385ddb06f3db6e58bfe1df28fbea30125f2fb380cbd7f9ebc4a00848013&w=1060" alt="rnkbansal23" style="width: 800px; height: 350px;"/>
 </p>
 <h1 align="center">Hi 👋, I'm Rajat Bansal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
