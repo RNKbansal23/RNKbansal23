@@ -37,6 +37,79 @@
 
 <!-- WakaTime Stats Section -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 6 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 30 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                88 commits          █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
+🌆 Daytime                89 commits          █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+🌃 Evening                129 commits         ████████░░░░░░░░░░░░░░░░░   31.85 % 
+🌙 Night                  99 commits          ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Tuesday                  64 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Wednesday                31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Thursday                 77 commits          █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+Friday                   90 commits          ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Saturday                 55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Sunday                   55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     12 repos            █████████░░░░░░░░░░░░░░░░   36.36 % 
+JavaScript               10 repos            ████████░░░░░░░░░░░░░░░░░   30.30 % 
+TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/RNKbansal23/RNKbansal23/main/assets/bar_graph.png)
+
+
+ Last Updated on 06/01/2026 11:24:36 UTC
 <!--END_SECTION:waka-->
 
 </details>
