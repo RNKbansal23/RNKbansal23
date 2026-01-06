@@ -32,8 +32,7 @@
 <details>
   <summary> :zap: Expand me to see Dev Metrics</summary>
 
-<!-- GitHub Stats Card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RNKbansal23&show_icons=true&theme=dark&hide_border=true)
+
 
 <!-- WakaTime Stats Section -->
 <!--START_SECTION:waka-->
