@@ -36,8 +36,7 @@
 
 <!-- Snake Animation -->
 ![github contribution grid snake animation](https://github.com/RNKbansal23/RNKbansal23/blob/output/github-contribution-grid-snake.svg)
-![Metrics](https://github.com/RNKbansal23/RNKbansal23/blob/metrics/github-metrics.svg)
-
+![Metrics](./github-metrics.svg)
 <details>
   <summary> :zap: Expand me to see Dev Metrics</summary>
 
