@@ -120,6 +120,6 @@ Java                     3 repos             ██░░░░░░░░░�
 </details>
 
 [instagram]: https://www.instagram.com/rajatbansal543
-[linkedin]: www.linkedin.com/in/rajatbansal123
+[linkedin]: https://www.linkedin.com/in/rajatbansal123
 [twitter]: https://x.com/RAJATBANSA88663
 [github]: https://github.com/RNKbansal23
