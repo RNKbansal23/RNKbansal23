@@ -19,13 +19,20 @@ jobs:
           template: classic
           config_timezone: Asia/Kolkata
           
-          # This disables the huge list of text stats
+          # This cleans up the extra text
           base: "" 
           
-          # LEFT SIDE: "Contributed to" list
+          # This enables the "Activity Overview" (The Cross Graph)
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+          
+          # This enables the "Contributed to" list (Left Side)
           plugin_repositories: yes
           plugin_repositories_featured: RNKbansal23/Skill_Sync
           
-          # RIGHT SIDE: The "Cross" Graph
-          plugin_followup: yes
-          plugin_followup_sections: repositories
+          # (Optional) Habits Graph (The green squares at the bottom)
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
