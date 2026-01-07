@@ -1,1 +1,35 @@
+name: Metrics
+on:
+  # Schedule updates (every day at midnight)
+  schedule: [{cron: "0 0 * * *"}]
+  # Lines below let you run workflow manually
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
 
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.GH_TOKEN }}
+
+          # Options
+          user: RNKbansal23
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          
+          # This creates the "Habits" chart (The green squares + The graph)
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          
+          # This adds the "Code Review" stats
+          plugin_followup: yes
+          plugin_followup_sections: repositories
