@@ -44,7 +44,7 @@
 
 <!-- WakaTime Stats Section -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -87,18 +87,18 @@ Sunday                   75 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     23 mins             ██████████████████████░░░   88.60 % 
-JavaScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+HTML                     30 mins             ███████████████████████░░   90.11 % 
+JavaScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 🔥 Editors: 
-Antigravity              26 mins             █████████████████████████   100.00 % 
+Antigravity              34 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-form_filler_extension    26 mins             █████████████████████████   100.00 % 
+form_filler_extension    34 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  26 mins             █████████████████████████   100.00 % 
+Windows                  34 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -118,7 +118,7 @@ Java                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RNKbansal23/RNKbansal23/main/assets/bar_graph.png)
 
 
- Last Updated on 23/02/2026 02:23:33 UTC
+ Last Updated on 24/02/2026 02:12:35 UTC
 <!--END_SECTION:waka-->
 
 </details>
