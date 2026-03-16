@@ -44,7 +44,7 @@
 
 <!-- WakaTime Stats Section -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -87,18 +87,18 @@ Sunday                   77 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     1 min               █████████████████████████   98.37 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Java                     5 mins              █████████████████████████   99.66 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-Antigravity              1 min               █████████████████████████   100.00 % 
+Antigravity              5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ooops                    1 min               █████████████████████████   98.37 % 
-isis_agent               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+ooops                    5 mins              █████████████████████████   99.66 % 
+isis_agent               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
+Windows                  5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -118,7 +118,7 @@ Java                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RNKbansal23/RNKbansal23/main/assets/bar_graph.png)
 
 
- Last Updated on 15/03/2026 02:32:53 UTC
+ Last Updated on 16/03/2026 02:34:01 UTC
 <!--END_SECTION:waka-->
 
 </details>
