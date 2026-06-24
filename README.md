@@ -44,6 +44,8 @@
 
 <!-- WakaTime Stats Section -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2021%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -118,7 +120,7 @@ Java                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RNKbansal23/RNKbansal23/main/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2026 06:03:28 UTC
+ Last Updated on 24/06/2026 03:40:28 UTC
 <!--END_SECTION:waka-->
 
 </details>
