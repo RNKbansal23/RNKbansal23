@@ -87,16 +87,21 @@ Sunday                   77 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               17 mins             ███████████░░░░░░░░░░░░░░   44.28 % 
+CSS                      15 mins             ██████████░░░░░░░░░░░░░░░   40.21 % 
+Markdown                 5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity IDE          39 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+arionads                 37 mins             ████████████████████████░   95.87 % 
+arion                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  39 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -116,7 +121,7 @@ Java                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RNKbansal23/RNKbansal23/main/assets/bar_graph.png)
 
 
- Last Updated on 05/07/2026 03:30:18 UTC
+ Last Updated on 06/07/2026 03:38:14 UTC
 <!--END_SECTION:waka-->
 
 </details>
