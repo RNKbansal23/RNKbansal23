@@ -44,9 +44,7 @@
 
 <!-- WakaTime Stats Section -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2036%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -88,10 +86,10 @@ Sunday                   86 commits          ████░░░░░░░�
 
 💬 Programming Languages: 
 Java                     2 hrs 3 mins        ████████████████████░░░░░   80.15 % 
-JavaScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
 Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+HTML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 XML                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
 Antigravity IDE          2 hrs 34 mins       █████████████████████████   100.00 % 
@@ -121,7 +119,7 @@ Java                     4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RNKbansal23/RNKbansal23/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 02:48:00 UTC
+ Last Updated on 24/07/2026 02:43:47 UTC
 <!--END_SECTION:waka-->
 
 </details>
