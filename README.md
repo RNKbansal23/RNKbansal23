@@ -50,58 +50,14 @@
 
 > 📦 128.2 kB Used in GitHub's Storage 
  > 
-> 🏆 94 Contributions in the Year 2026
+> 🏆 95 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 36 Public Repositories 
+> 📜 37 Public Repositories 
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                112 commits         █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-🌆 Daytime                137 commits         ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
-🌃 Evening                177 commits         ████████░░░░░░░░░░░░░░░░░   32.60 % 
-🌙 Night                  117 commits         █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-Tuesday                  78 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Wednesday                49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-Thursday                 91 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Friday                   109 commits         █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
-Saturday                 82 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Sunday                   86 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Java                     2 hrs 3 mins        ████████████████████░░░░░   80.15 % 
-Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-HTML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-XML                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-
-🔥 Editors: 
-Antigravity IDE          2 hrs 34 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-expensesplitter          2 hrs 34 mins       █████████████████████████   99.72 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-
-💻 Operating System: 
-Windows                  2 hrs 34 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -119,7 +75,7 @@ Java                     4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RNKbansal23/RNKbansal23/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 02:43:47 UTC
+ Last Updated on 25/07/2026 02:42:29 UTC
 <!--END_SECTION:waka-->
 
 </details>
