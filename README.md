@@ -44,6 +44,8 @@
 
 <!-- WakaTime Stats Section -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2026%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -58,6 +60,52 @@
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                112 commits         █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+🌆 Daytime                137 commits         ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
+🌃 Evening                177 commits         ████████░░░░░░░░░░░░░░░░░   32.60 % 
+🌙 Night                  117 commits         █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Tuesday                  78 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Wednesday                49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Thursday                 91 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Friday                   109 commits         █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+Saturday                 82 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Sunday                   86 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Java                     2 hrs 3 mins        ███████████████░░░░░░░░░░   61.53 % 
+Python                   28 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Markdown                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+HTML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+
+🔥 Editors: 
+Antigravity IDE          3 hrs 20 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+expensesplitter          2 hrs 33 mins       ███████████████████░░░░░░   76.60 % 
+Invisible-Cloak          44 mins             ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
+INVISIBLE                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+
+💻 Operating System: 
+Windows                  3 hrs 20 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -75,7 +123,7 @@ Java                     4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RNKbansal23/RNKbansal23/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 02:42:29 UTC
+ Last Updated on 26/07/2026 02:50:52 UTC
 <!--END_SECTION:waka-->
 
 </details>
