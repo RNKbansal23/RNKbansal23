@@ -44,10 +44,6 @@
 
 <!-- WakaTime Stats Section -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2040%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2051%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -89,45 +85,41 @@ Sunday                   86 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   43 mins             █████████░░░░░░░░░░░░░░░░   35.45 % 
-Java                     31 mins             ███████░░░░░░░░░░░░░░░░░░   26.10 % 
-Markdown                 30 mins             ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
-HTML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Python                   43 mins             ████████████████░░░░░░░░░   65.76 % 
+Markdown                 20 mins             ████████░░░░░░░░░░░░░░░░░   31.68 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 2 mins        █████████████████████████   100.00 % 
+Antigravity IDE          1 hr 5 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Invisible-Cloak          1 hr 4 mins         █████████████░░░░░░░░░░░░   52.40 % 
-expensesplitter          55 mins             ███████████░░░░░░░░░░░░░░   45.73 % 
-INVISIBLE                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Invisible-Cloak          1 hr 4 mins         ████████████████████████░   97.20 % 
+INVISIBLE                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 
 💻 Operating System: 
-Windows                  2 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 34 mins (77.21%)
+⏱ AI Coding Time: 1 hr 1 min (93.52%)
 
-✍️ 78 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 60 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 30 AI Prompts
+🧠 2 AI Sessions, 23 AI Prompts
 
-Gemini                   69 lines            ██████████████████░░░░░░░   70.41 % 
-Sonnet                   29 lines            ███████░░░░░░░░░░░░░░░░░░   29.59 % 
+Gemini                   49 lines            ████████████████░░░░░░░░░   62.82 % 
+Sonnet                   29 lines            █████████░░░░░░░░░░░░░░░░   37.18 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 205 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📝 Concise Prompter — average 225 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -148,7 +140,7 @@ Java                     4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RNKbansal23/RNKbansal23/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 02:35:09 UTC
+ Last Updated on 29/07/2026 02:41:16 UTC
 <!--END_SECTION:waka-->
 
 </details>
