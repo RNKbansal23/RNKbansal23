@@ -54,11 +54,11 @@
 
 > 📦 128.2 kB Used in GitHub's Storage 
  > 
-> 🏆 95 Contributions in the Year 2026
+> 🏆 96 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 37 Public Repositories 
+> 📜 38 Public Repositories 
  > 
 > 🔑 12 Private Repositories 
  > 
@@ -89,41 +89,39 @@ Sunday                   86 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   43 mins             ███████████████░░░░░░░░░░   61.05 % 
-Markdown                 25 mins             █████████░░░░░░░░░░░░░░░░   36.58 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Python                   14 mins             ███████████████████░░░░░░   74.27 % 
+Markdown                 4 mins              ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 10 mins        █████████████████████████   100.00 % 
+Antigravity IDE          19 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Invisible-Cloak          1 hr 9 mins         ████████████████████████░   97.40 % 
-INVISIBLE                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Invisible-Cloak          19 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 10 mins        █████████████████████████   100.00 % 
+Windows                  19 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 4 mins (90.97%)
+⏱ AI Coding Time: 16 mins (82.9%)
 
-✍️ 60 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 12 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 25 AI Prompts
+🧠 1 AI Sessions, 8 AI Prompts
 
-Gemini                   49 lines            ████████████████░░░░░░░░░   62.82 % 
-Sonnet                   29 lines            █████████░░░░░░░░░░░░░░░░   37.18 % 
+Sonnet                   29 lines            ████████████████████████░   96.67 % 
+Gemini                   1 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 224 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
+📝 Concise Prompter — average 413 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -144,7 +142,7 @@ Java                     4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RNKbansal23/RNKbansal23/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 02:52:38 UTC
+ Last Updated on 01/08/2026 02:51:26 UTC
 <!--END_SECTION:waka-->
 
 </details>
