@@ -128,11 +128,11 @@ Gemini                   1 lines             █░░░░░░░░░░�
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     14 repos            █████████░░░░░░░░░░░░░░░░   35.00 % 
-JavaScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-TypeScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+HTML                     13 repos            █████████░░░░░░░░░░░░░░░░   34.21 % 
+JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+TypeScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
 ```
 
 
@@ -142,7 +142,7 @@ Java                     4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RNKbansal23/RNKbansal23/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 02:50:15 UTC
+ Last Updated on 03/08/2026 02:51:21 UTC
 <!--END_SECTION:waka-->
 
 </details>
