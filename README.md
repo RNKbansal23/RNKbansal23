@@ -52,34 +52,34 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 128.2 kB Used in GitHub's Storage 
+> 📦 182.6 kB Used in GitHub's Storage 
  > 
-> 🏆 96 Contributions in the Year 2026
+> 🏆 98 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 38 Public Repositories 
+> 📜 39 Public Repositories 
  > 
 > 🔑 12 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                112 commits         █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-🌆 Daytime                137 commits         ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
-🌃 Evening                177 commits         ████████░░░░░░░░░░░░░░░░░   32.60 % 
-🌙 Night                  117 commits         █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+🌞 Morning                113 commits         █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
+🌆 Daytime                137 commits         ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
+🌃 Evening                177 commits         ████████░░░░░░░░░░░░░░░░░   32.54 % 
+🌙 Night                  117 commits         █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-Tuesday                  78 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Wednesday                49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-Thursday                 91 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Friday                   109 commits         █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
-Saturday                 82 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Sunday                   86 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Monday                   48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Tuesday                  78 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Wednesday                49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+Thursday                 92 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Friday                   109 commits         █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+Saturday                 82 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Sunday                   86 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
 ```
 
 
@@ -89,32 +89,52 @@ Sunday                   86 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     48 mins             ████████████████████████░   95.40 % 
+YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity IDE          51 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+backend                  40 mins             ████████████████████░░░░░   79.24 % 
+delivery app             10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  51 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 51 mins (99.97%)
+
+✍️ 2 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 10 AI Prompts
+
+Gemini                   2 lines             █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 58 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     13 repos            █████████░░░░░░░░░░░░░░░░   34.21 % 
-JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-TypeScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+HTML                     13 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+TypeScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
 ```
 
 
@@ -124,7 +144,7 @@ Java                     4 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RNKbansal23/RNKbansal23/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 02:33:55 UTC
+ Last Updated on 06/08/2026 02:36:48 UTC
 <!--END_SECTION:waka-->
 
 </details>
