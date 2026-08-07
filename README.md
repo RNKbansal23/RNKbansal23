@@ -44,10 +44,6 @@
 
 <!-- WakaTime Stats Section -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2059%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%207%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -62,71 +58,6 @@
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                113 commits         █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
-🌆 Daytime                137 commits         ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
-🌃 Evening                177 commits         ████████░░░░░░░░░░░░░░░░░   32.54 % 
-🌙 Night                  117 commits         █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Tuesday                  78 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Wednesday                49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Thursday                 92 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Friday                   109 commits         █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-Saturday                 82 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Sunday                   86 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-JSON                     48 mins             ████████████████████████░   95.40 % 
-YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🔥 Editors: 
-Antigravity IDE          51 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-backend                  40 mins             ████████████████████░░░░░   79.24 % 
-delivery app             10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-
-💻 Operating System: 
-Windows                  51 mins             █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 51 mins (99.97%)
-
-✍️ 2 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 10 AI Prompts
-
-Gemini                   2 lines             █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 58 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -144,7 +75,7 @@ Java                     4 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RNKbansal23/RNKbansal23/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 02:36:48 UTC
+ Last Updated on 07/08/2026 02:41:51 UTC
 <!--END_SECTION:waka-->
 
 </details>
