@@ -54,7 +54,7 @@
 
 > 📦 182.6 kB Used in GitHub's Storage 
  > 
-> 🏆 98 Contributions in the Year 2026
+> 🏆 99 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,54 +89,49 @@ Sunday                   86 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     48 mins             ████████████████████░░░░░   79.48 % 
-Markdown                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Markdown                 15 mins             ██████████████████████░░░   87.53 % 
+TypeScript               2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 1 min          █████████████████████████   100.00 % 
+Antigravity IDE          17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-backend                  40 mins             █████████████████░░░░░░░░   66.02 % 
-delivery app             12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-arionads                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+arionads                 8 mins              ███████████░░░░░░░░░░░░░░   45.48 % 
+Invisible-Cloak          7 mins              ███████████░░░░░░░░░░░░░░   42.05 % 
+delivery app             2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
 
 💻 Operating System: 
-Windows                  1 hr 1 min          █████████████████████████   100.00 % 
+Windows                  17 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 mins (86.84%)
+⏱ AI Coding Time: 7 mins (44.48%)
 
-✍️ 2 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 12 AI Prompts
-
-Gemini                   2 lines             █████████████████████████   100.00 % 
+🧠 3 AI Sessions, 7 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 60 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 70 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     13 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
-TypeScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+HTML                     13 repos            ████████░░░░░░░░░░░░░░░░░   32.50 % 
+TypeScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
 
@@ -146,7 +141,7 @@ Java                     4 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RNKbansal23/RNKbansal23/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 01:58:47 UTC
+ Last Updated on 13/08/2026 02:01:11 UTC
 <!--END_SECTION:waka-->
 
 </details>
