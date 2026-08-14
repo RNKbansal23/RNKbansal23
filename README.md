@@ -44,9 +44,9 @@
 
 <!-- WakaTime Stats Section -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -54,11 +54,11 @@
 
 > 📦 182.6 kB Used in GitHub's Storage 
  > 
-> 🏆 99 Contributions in the Year 2026
+> 🏆 100 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 39 Public Repositories 
+> 📜 40 Public Repositories 
  > 
 > 🔑 12 Private Repositories 
  > 
@@ -89,25 +89,24 @@ Sunday                   86 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 15 mins             ██████████████████████░░░   87.53 % 
-TypeScript               2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+TypeScript               33 mins             ████████████████████░░░░░   80.76 % 
+Markdown                 8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
 
 🔥 Editors: 
-Antigravity IDE          17 mins             █████████████████████████   100.00 % 
+Antigravity IDE          41 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-arionads                 8 mins              ███████████░░░░░░░░░░░░░░   45.48 % 
-Invisible-Cloak          7 mins              ███████████░░░░░░░░░░░░░░   42.05 % 
-delivery app             2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+arionads                 34 mins             █████████████████████░░░░   82.19 % 
+Invisible-Cloak          7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.00 % 
+Windows                  41 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (44.48%)
+⏱ AI Coding Time: 40 mins (95.8%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -115,13 +114,15 @@ Windows                  17 mins             ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 7 AI Prompts
+🧠 2 AI Sessions, 13 AI Prompts
+
+Antigravity-Ide          1 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 70 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+📝 Concise Prompter — average 73 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -141,7 +142,7 @@ Java                     4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RNKbansal23/RNKbansal23/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 02:01:11 UTC
+ Last Updated on 14/08/2026 01:58:59 UTC
 <!--END_SECTION:waka-->
 
 </details>
