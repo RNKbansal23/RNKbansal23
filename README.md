@@ -89,24 +89,23 @@ Sunday                   86 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               33 mins             ████████████████████░░░░░   80.76 % 
-Markdown                 8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+TypeScript               33 mins             █████████████████████████   98.26 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 🔥 Editors: 
-Antigravity IDE          41 mins             █████████████████████████   100.00 % 
+Antigravity IDE          34 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-arionads                 34 mins             █████████████████████░░░░   82.19 % 
-Invisible-Cloak          7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+arionads                 34 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  41 mins             █████████████████████████   100.00 % 
+Windows                  34 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 40 mins (95.8%)
+⏱ AI Coding Time: 34 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -114,14 +113,14 @@ Windows                  41 mins             ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 13 AI Prompts
+🧠 1 AI Sessions, 8 AI Prompts
 
 Antigravity-Ide          1 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 73 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📝 Concise Prompter — average 75 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -142,7 +141,7 @@ Java                     4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RNKbansal23/RNKbansal23/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 01:16:31 UTC
+ Last Updated on 20/08/2026 01:15:17 UTC
 <!--END_SECTION:waka-->
 
 </details>
