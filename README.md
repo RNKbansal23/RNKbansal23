@@ -19,7 +19,7 @@
 
 
 <h3 align="left">Achievements</h3>
-<p align="left">
+<p align="center">
   <img src="./gssoc.png" width="90" alt="GSSOC Badge">
   &nbsp; &nbsp;
   <img src="./ssooc.png" width="100" alt="SSOOC Badge">
