@@ -1,3 +1,4 @@
+<img src="header.svg" width="100%" alt="Header Banner" />
 # Hello-Hello, Rajat here..👋
 
 - 🌱 I’m currently doing **DevOps** and **Full-Stack Devlopment**
