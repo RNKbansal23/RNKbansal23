@@ -2,21 +2,23 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=500&lines=Automate.Deploy.Scale..;Full-Stack+Developer;From+UI+to+API..;AWS+%7C+GCP+%7C+Docker" alt="Typing SVG" />
 </div>
-# Hello-Hello, Rajat here..👋
-
-- 🌱 I’m currently doing **DevOps** and **Full-Stack Devlopment**
-- 👨‍💻 All of my projects are available at **https://github.com/RNKbansal23**
-- 📫 How to reach me: **rnkbansal123@gmail.com**
-- ⚡ Fun fact **I love coding!** 💘
-
-## 😎 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)][twitter]
 
 
-<h3 align="left">🏆 Achievements</h3>
+## Connect with me
+<div align="center">
+  <a href="https://www.linkedin.com/in/rajatbansal123" target="_blank">
+    <img src="linkedin.svg" alt="LinkedIn" width="210" style="margin: 0 10px;" />
+  </a>
+  <a href="https://instagram.com/rajatbansal543" target="_blank">
+    <img src="instagram.svg" alt="Instagram" width="210" style="margin: 0 10px;" />
+  </a>
+  <a href="https://x.com/RAJATBANSA88663" target="_blank">
+    <img src="twitter.svg" alt="X/Twitter" width="210" style="margin: 0 10px;" />
+  </a>
+</div>
+
+
+<h3 align="left">Achievements</h3>
 <p align="left">
   <img src="./gssoc.png" width="90" alt="GSSOC Badge">
   &nbsp; &nbsp;
