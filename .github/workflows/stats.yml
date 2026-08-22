@@ -1,0 +1,13 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}] # Runs daily
+  workflow_dispatch:
+- uses: lowlighter/metrics@latest
+    with:
+      filename: github-metrics.svg
+      token: ${{ secrets.METRICS_TOKEN }}
+      template: classic
+      base: classic
+      plugin_lines: yes
+      config.timezone: Asia/Kolkata
+      config.theme: tokyo-night
