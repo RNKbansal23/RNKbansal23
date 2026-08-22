@@ -23,6 +23,10 @@
   <img src="./gssoc.png" width="90" alt="GSSOC Badge">
   &nbsp; &nbsp;
   <img src="./ssooc.png" width="100" alt="SSOOC Badge">
+    &nbsp; &nbsp;
+  <img src="./NSOC.png" width="100" alt="SSOOC Badge">
+    &nbsp; &nbsp;
+  <img src="./Contributor.png" width="110" alt="SSOOC Badge">
 </p>
 
 <div align="center">
