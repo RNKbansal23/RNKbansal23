@@ -1,6 +1,6 @@
 <img src="header.svg" width="100%" alt="Header Banner" />
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=500&lines=Automate.Deploy.Scale..;Full-Stack+Developer;From+UI+to+API..;AWS+%7C+GCP+%7C+Docker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=50&color=00C7B7&center=true&vCenter=true&width=500&lines=Automate.Deploy.Scale..;Full-Stack+Developer;From+UI+to+API..;AWS+%7C+GCP+%7C+Docker" alt="Typing SVG" />
 </div>
 
 
