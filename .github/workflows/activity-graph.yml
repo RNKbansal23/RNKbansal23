@@ -1,0 +1,26 @@
+name: Generate Activity Graph
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        
+      - name: Generate github-readme-activity-graph
+        uses: Ashutosh00710/github-readme-activity-graph@master
+        with:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
+          USERNAME: RNKbansal23
+          BG_COLOR: 0a0f16
+          COLOR: 00C7B7
+          LINE: 00C7B7
+          POINT: FFFFFF
+          HIDE_BORDER: true
