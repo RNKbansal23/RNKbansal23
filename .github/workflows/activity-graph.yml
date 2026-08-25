@@ -1,4 +1,4 @@
-name: Generate Activity Graph
+name: Generate 3D Contribution Graph
 
 on:
   schedule:
@@ -13,14 +13,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        
-      - name: Generate github-readme-activity-graph
-        uses: Ashutosh00710/github-readme-activity-graph@main
-        with:
+      
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
-          USERNAME: RNKbansal23
-          BG_COLOR: 0a0f16
-          COLOR: 00C7B7
-          LINE: 00C7B7
-          POINT: FFFFFF
-          HIDE_BORDER: true
+          USERNAME: ${{ github.repository_owner }}
+          
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A .
+          git commit -m "chore: update 3D graph" || exit 0
+          git push
