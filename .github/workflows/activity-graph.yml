@@ -21,15 +21,19 @@ jobs:
           
       - name: Apply Cyber-Teal Theme
         run: |
+          # Brighten base backgrounds so it's less dark/vignetted
           sed -i 's/#161b22/#111c2b/gI' profile-3d-contrib/profile-night-green.svg
-          sed -i 's/#0d1117/#0a0f16/gI' profile-3d-contrib/profile-night-green.svg
-          sed -i 's/#010409/#0a0f16/gI' profile-3d-contrib/profile-night-green.svg
+          sed -i 's/#0d1117/#111c2b/gI' profile-3d-contrib/profile-night-green.svg
+          sed -i 's/#010409/#111c2b/gI' profile-3d-contrib/profile-night-green.svg
+          
+          # Adjust teal highlights and block colors
           sed -i 's/#39d353/#00FFFF/gI' profile-3d-contrib/profile-night-green.svg
           sed -i 's/#26a641/#00C7B7/gI' profile-3d-contrib/profile-night-green.svg
           sed -i 's/#006d32/#008A80/gI' profile-3d-contrib/profile-night-green.svg
           sed -i 's/#0e4429/#004D47/gI' profile-3d-contrib/profile-night-green.svg
-          sed -i 's|</svg>|<defs><radialGradient id="glow" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#00C7B7" stop-opacity="0.12"/><stop offset="100%" stop-color="#00C7B7" stop-opacity="0"/></radialGradient></defs><rect width="100%" height="100%" fill="url(#glow)" pointer-events="none"/><g stroke="#00C7B7" stroke-width="1.2" fill="none" opacity="0.15" pointer-events="none"><path d="M0,160 L30,160 L50,180 L50,460 L70,480 L250,480"/><circle cx="250" cy="480" r="3" fill="#00C7B7"/><path d="M950,230 L900,230 L880,250 L880,470 L850,500"/><circle cx="850" cy="500" r="3" fill="#00C7B7"/><path d="M300,0 L300,30 L320,50 L500,50 L520,70 L520,130"/><circle cx="520" cy="130" r="3" fill="#00C7B7"/><path d="M600,540 L600,480 L620,460 L750,460 L770,440 L770,390"/><circle cx="770" cy="390" r="3" fill="#00C7B7"/><path d="M100,0 L100,20 L120,40 L250,40"/><circle cx="250" cy="40" r="3" fill="#00C7B7"/></g></svg>|g' profile-3d-contrib/profile-night-green.svg
           
+          # Inject a much softer, brighter ambient glow (less vignette)
+          sed -i 's|</svg>|<defs><radialGradient id="soft-glow" cx="50%" cy="50%" r="70%"><stop offset="0%" stop-color="#00C7B7" stop-opacity="0.08"/><stop offset="100%" stop-color="#111c2b" stop-opacity="0"/></radialGradient></defs><rect width="100%" height="100%" fill="url(#soft-glow)" pointer-events="none"/></svg>|g' profile-3d-contrib/profile-night-green.svg          
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
