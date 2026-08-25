@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v4
         
       - name: Generate github-readme-activity-graph
-        uses: Ashutosh00710/github-readme-activity-graph@master
+        uses: Ashutosh00710/github-readme-activity-graph@main
         with:
           GITHUB_TOKEN: ${{ secrets.PAT }}
           USERNAME: RNKbansal23
