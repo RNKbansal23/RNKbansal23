@@ -41,7 +41,7 @@
   <img src="skills.svg" width="100%" alt="Tech Stack Dashboard" />
 </div>
 
-## 🚀 Github Stats
+## Stats
 
 <!-- Snake Animation -->
 ![github contribution grid snake animation](https://github.com/RNKbansal23/RNKbansal23/blob/output/github-contribution-grid-snake.svg)
