@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/rajatbansal123" target="_blank">
     <img src="linkedin.svg" alt="LinkedIn" width="210" style="margin: 0 10px;" />
   </a>
-  <a href="https://instagram.com/rajatbansal543" target="_blank">
+  <a href="https://www.instagram.com/bansalbytes/" target="_blank">
     <img src="instagram.svg" alt="Instagram" width="210" style="margin: 0 10px;" />
   </a>
   <a href="https://x.com/RAJATBANSA88663" target="_blank">
